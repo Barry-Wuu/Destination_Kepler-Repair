@@ -1,5 +1,7 @@
 # Destination Kepler（修复版仓库）
 
+<b>简体中文</b> ｜ <a href="README.en.md">English</a>
+
 Flash 游戏《Destination Kepler》的可玩修复版 + 官方独立播放器。
 
 ## 黑屏问题与修复说明
